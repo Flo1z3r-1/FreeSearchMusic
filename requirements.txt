@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.26.0
+yt-dlp==2025.2.19
+mutagen==1.47.0
+python-dotenv==1.0.1
